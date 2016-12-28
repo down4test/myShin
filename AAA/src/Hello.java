@@ -5,9 +5,9 @@ public class Hello {
 		System.out.println("Hello");
 		System.out.println("MergeTest");
 		System.out.println("MergeTest");
-		System.out.println("MergeTest");
-		System.out.println("MergeTest");
-		System.out.println("MergeTest");
+		System.out.println("afaf");
+		System.out.println("faasdfadf");
+		System.out.println("asdfadsfsdfsdfasdfadf");
 	}
 
 }
